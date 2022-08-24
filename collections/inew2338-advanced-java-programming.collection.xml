@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Richard Baldwin">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12003</md:content-id>
     <md:title>INEW2338 - Advanced Java Programming</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>c96c93fa-e84c-41e3-80c2-049e1be46dfa</md:uuid>
-<md:slug>inew2338-advanced-java-programming</md:slug>
-</metadata>
+    <md:slug>inew2338-advanced-java-programming</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Preface</md:title>
